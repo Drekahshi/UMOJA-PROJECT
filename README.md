@@ -127,6 +127,6 @@ UMOJA uses:
 …to unlock **Kenya’s grassroots prosperity**.
 
 > "Wealth isn't created by the few. It's unlocked by the many."
-https://hisa-heartbeat-prompts.lovable.app
+
 ---
 
